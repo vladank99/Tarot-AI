@@ -35,7 +35,7 @@ def get_card_keywords(keywords_df, cards, topic):
     return card_keywords
 
 # GPT call
-api_key_stream = st.secrets["api_key"]
+api_key_stream = st.secrets["OpenAI_key"]
 client = OpenAI(api_key=api_key_stream)
 
 def get_model_response(messages, model="gpt-4o"):
