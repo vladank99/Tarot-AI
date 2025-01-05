@@ -9,11 +9,11 @@ st.set_page_config(
 )
 
 # Get a list of all tarot cards
-data = pd.read_csv('final_df.csv')
+data = pd.read_csv('tarot_app_streamlit/final_df.csv')
 list_tarot = data['card'].unique().tolist()
 
 # Get summaries
-summaries = pd.read_csv('summary_df_tarot.csv')
+summaries = pd.read_csv('tarot_app_streamlit/summary_df_tarot.csv')
 
 # Edit topic values
 summaries['topic'] = summaries['topic'].replace({
