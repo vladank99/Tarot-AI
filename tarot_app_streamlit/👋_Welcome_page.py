@@ -19,7 +19,7 @@ st.markdown(
 Create a bot for daily tarot card readings
 
 #### Overview
-The website includes four types of tarot bots:
+The website includes three types of tarot bots:
 """)
 
 st.write()
