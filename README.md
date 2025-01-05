@@ -6,7 +6,7 @@
 Create a bot for daily tarot card readings
 
 ### Overview    
-The website includes four types of tarot bots:
+The website includes three types of tarot bots:
 
 **🤖  Prompt-based Bot**    
 This bot uses various prompting techniques to generate predictions: meta-prompting & prompt-chaining    
