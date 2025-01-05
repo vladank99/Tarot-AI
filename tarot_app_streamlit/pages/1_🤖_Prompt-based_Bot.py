@@ -14,7 +14,7 @@ list_tarot = data['card'].unique().tolist()
 
 
 # GPT call
-api_key_stream = st.secrets["api_key"]
+api_key_stream = st.secrets["OpenAI_key"]
 
 client = OpenAI(api_key=api_key_stream)
 
