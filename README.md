@@ -1,6 +1,6 @@
 # Tarot-AI 🔮   
 
-[Main Link](https://tarot-ai-prediction.streamlit.app/)
+### [Link to the Website](https://tarot-ai-prediction.streamlit.app/)
 
 ### Main Idea
 Create a bot for daily tarot card readings
