@@ -1,1 +1,1 @@
-# tarot-ai
+# Tarot-AI
