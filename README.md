@@ -1,20 +1,20 @@
-# Tarot-AI 🔮
+# Tarot-AI 🔮   
 Author: Vladislav Ankushev
 ---
 
 ### Main Idea
 Create a bot for daily tarot card readings
 
-### Overview
+### Overview    
 The website includes four types of tarot bots:
 
-**🤖 Prompt-based Bot**
+**🤖 Prompt-based Bot**    
 This bot uses various prompting techniques to generate predictions: meta-prompting & prompt-chaining    
 
-**👾 Keyword-based Bot**
+**👾 Keyword-based Bot**    
 This bot focuses on keywords taken from parsed tarot card meanings. It creates predictions based on the most common themes linked to each card   
 
-**⚙️ Summarization Bot**
+**⚙️ Summarization Bot**    
 This bot generates summaries from parsed tarot card meanings. It combines various summaries for a single cart, creating a single & general interpretation    
 
 ### Goal
