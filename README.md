@@ -1,8 +1,5 @@
 # Tarot-AI 🔮   
 
-Author: Vladislav Ankushev
----
-
 ### Main Idea
 Create a bot for daily tarot card readings
 
